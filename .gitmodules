@@ -4,3 +4,6 @@
 [submodule "ds000001-fmriprep"]
 	path = derivatives/fMRIPrep-21.0.1
 	url = https://github.com/OpenNeuroDerivatives/ds000001-fmriprep.git
+[submodule "ds000001-mriqc"]
+	path = derivatives/MRIQC-0.16.1
+	url = https://github.com/OpenNeuroDerivatives/ds000001-mriqc.git
